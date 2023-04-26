@@ -1,2 +1,0 @@
-# Database-management-sysytem
-Unknown
